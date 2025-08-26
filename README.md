@@ -23,6 +23,7 @@ This is a Python-based image processing application that provides various tools 
 - Open and save images in various formats
 - Export processed images
 - Batch processing capabilities
+<img width="803" height="1081" alt="Ekran görüntüsü 2025-07-31 203955" src="https://github.com/user-attachments/assets/17f8a24e-21bd-4b3e-8afd-aa7347887911" />
 
 ## Project Structure
 
