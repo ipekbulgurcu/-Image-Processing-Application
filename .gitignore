@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+temp_debug_images/
+.env
+.venv
+env/
+venv/
+ENV/
+*.log
